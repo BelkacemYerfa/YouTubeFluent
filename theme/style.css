@@ -1,4 +1,17 @@
  /*chapter border radius*/
+html{
+::-webkit-scrollbar {
+  width: 10px;
+ }
+::-webkit-scrollbar-track {
+  background: #0f0f0f;  
+}
+::-webkit-scrollbar-thumb {
+  background: #888; 
+   border-radius: 5px ; 
+}
+}
+
 ytd-engagement-panel-section-list-renderer {
     border-radius: 15px;
 }
